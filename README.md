@@ -1,15 +1,15 @@
 # 🎵 Spotify UI Clone
 
-A responsive Spotify-inspired music player interface built using HTML and CSS. This project focuses on replicating the modern UI design and layout of Spotify.
+A Spotify-inspired music player interface built using HTML and CSS. This project focuses on replicating the modern UI design and layout of Spotify for desktop screens.
 
 ---
 
 ## 🚀 Features
 
 * 🎧 Clean and modern Spotify-like UI
-* 📱 Responsive design for different screen sizes
-* 📂 Sidebar navigation menu
+* 📂 Sidebar navigation
 * ▶️ Music player interface (UI only)
+* 🎨 Styled using Flexbox and modern CSS
 
 ---
 
@@ -20,6 +20,23 @@ A responsive Spotify-inspired music player interface built using HTML and CSS. T
 
 ---
 
+## 🌐 Live Demo
+
+https://rajattyagi-dev1.github.io/spotify-clone-frontend-/
+
+---
+
+## 📸 Preview
+
+(Add a screenshot here)
+
+---
+
+## ⚠️ Note
+
+This project is currently optimized for **desktop view only** and is not fully responsive for mobile devices.
+
+---
 
 ## 📁 Folder Structure
 
@@ -32,16 +49,11 @@ spotify-clone/
 
 ---
 
-## 🌐 Live Demo
-https://rajattyagi-dev1.github.io/Spotify-clone-FRONTEND-/
-
----
-
 ## 📌 Future Improvements
 
-* Add JavaScript for functionality
-* Integrate real music API
-* Improve responsiveness further
+* Add responsive design for mobile devices
+* Add interactivity using JavaScript
+* Integrate music playback functionality
 
 ---
 
